@@ -1,0 +1,18 @@
+YEAR = 0
+MONTH = 1
+DAY = 2
+HOUR = 3
+MINUTE = 4
+
+JAN = 1
+FEB = 2
+MAR = 3
+APR = 4
+MAY = 5
+JUN = 6
+JUL = 7
+AUG = 8
+SEP = 9
+OCT = 10
+NOV = 11
+DEC = 12
